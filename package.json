@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/checkout-flow.js",
+    "test:full": "node tests/checkout-flow.js --full",
+    "confirm:latest": "node tests/confirm-latest-order.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}
