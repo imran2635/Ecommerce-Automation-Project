@@ -2,6 +2,12 @@
 
 Playwright automation for the Imran Fashion storefront checkout and admin order-confirmation flow.
 
+## Flow Demo Video
+
+▶️ **[Watch the complete client-site and admin-panel automation flow](https://drive.google.com/file/d/1xP0GqjqgGh_JcEbiA2bXSHGace1EyGNr/view?usp=sharing)**
+
+The video demonstrates the storefront checkout journey, validation cases, Cash on Delivery order placement, and final order confirmation from the admin panel.
+
 ## Project structure
 
 - `downloads/` — browser downloads created by tests
